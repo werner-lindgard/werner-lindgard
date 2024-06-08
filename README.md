@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @werner-lindgard
 - 👀 I’m interested in programming in both frontend, backend and infrastructure. Fullstack. And also martial arts!
-- 🌱 I’m currently working with React, ThreeJS Fiber, Node/Express and AWS
+- 🌱 I’m currently working with React, React-Router, ThreeJS Fiber, Node/Express, Java, PostgreSQL and AWS
 - 📫 I can be reached... a bit later :)
 
 <!---
